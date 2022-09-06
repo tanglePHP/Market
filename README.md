@@ -26,7 +26,7 @@ _The aim of the this lib is to offer PHP developers an easy way to interact with
 
 + PHP 8+
 + PHP Libraries:
-    + [tanglePHP/Core](https://github.com/tanglePHP/Core)
+    + [tanglePHP/network](https://github.com/tanglePHP/network)
 
 ---
 
